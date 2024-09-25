@@ -4,6 +4,7 @@ public class HelloWorld {
 		System.out.println("Hello there!");
 		System.out.println("AH, GENERAL KENOBI!!!");
 		System.out.println("Programmer 2 did this");
-		System.out.println("Programmer one did this");
+		System.out.println("Programmer 1 did this");
+
 	}
 }
